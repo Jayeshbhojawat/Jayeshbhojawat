@@ -7,5 +7,5 @@
 - 💬 Ask me about HTML,CSS,JS,Python
 - 📫 How to reach me: **LinkedIn** [Jayesh Bhojawat | LinkedIn](https://www.linkedin.com/in/jayeshbhojawat/) 
 -  **Instagram** [ʝąყɛʂɧ ⸸ (@jayesh_bhojawat)](https://www.instagram.com/jayesh_bhojawat/)
-
+<img src="https://i.pinimg.com/originals/ce/19/6d/ce196d896889ce984b8c36f6c8ed64b0.jpg">
 <img src="https://github-readme-stats.vercel.app/api?username=Jayeshbhojawat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
