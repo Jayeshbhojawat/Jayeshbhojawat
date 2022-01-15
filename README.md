@@ -9,5 +9,6 @@
 - 💬 Ask me about HTML,CSS,JS,Python
 - 📫 How to reach me: **LinkedIn** [Jayesh Bhojawat ](https://www.linkedin.com/in/jayeshbhojawat/) 
 -  **Instagram** [ʝąყɛʂɧ ⸸](https://www.instagram.com/jayesh_bhojawat/)
--  ![Profile views](https://gpvc.arturio.dev/fahadashiq12)
+-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Jayeshbhojawat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
