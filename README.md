@@ -2,8 +2,8 @@
 <h1 align="left"> < Hello Coders🚀, I'm Jayesh Bhojawat<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
 <img width="48%" img src="https://i.pinimg.com/originals/36/7b/5e/367b5e4a292d6a278808ee3def7b2527.gif" align="right"/>
 
-- 🔭 I’m currently working on my Portfolio website
-- 🌱 I’m currently learning Bootstrap & MVC.
+- 🔭 I’m keen Cryptocurrency Enthusiast
+- 🌱 I’m currently learning Bootstrap,MVC & sorta Blockchain
 - 👯 I’m looking to collaborate on Open source and a lot on development side.
 - 💬 Ask me about HTML,CSS,JS,Python
 - 📫 How to reach me: **LinkedIn** [Jayesh Bhojawat ](https://www.linkedin.com/in/jayeshbhojawat/) 
