@@ -1,6 +1,6 @@
 ###                                                             
 <h1 align="left"> < Hello Coders🚀, I'm Jayesh Bhojawat<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
-<img width="48%" img src="https://i.pinimg.com/originals/36/7b/5e/367b5e4a292d6a278808ee3def7b2527.gif" align="right"/>
+<img width="48%" img src="https://yt3.ggpht.com/a/AATXAJyoBzY3MLfXHZ8EW4X3SpL8Tkmn1sBtn3FaxA=s900-c-k-c0xffffffff-no-rj-mo" align="right"/>
 
 - 🔭 I’m keen Cryptocurrency Enthusiast
 - 🌱 I’m currently learning Bootstrap,MVC & sorta Blockchain
