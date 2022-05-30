@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Open source and a lot on development side.
 - 💬 Ask me about HTML,CSS,JS,Python
 - 📫 How to reach me: **LinkedIn** [Jayesh Bhojawat ](https://www.linkedin.com/in/jayeshbhojawat/) 
--  **Instagram** [ʝąყɛʂɧ ⸸](https://www.instagram.com/jayesh_bhojawat/)
+-  **Instagram** [ʝąყɛʂɧ ⸸](https://www.instagram.com/jamyeshh/)
 -  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>
 
 <img width="38%" img src="https://github-readme-stats.vercel.app/api?username=Jayeshbhojawat&theme=radical&show_icons=true">
