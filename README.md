@@ -1,4 +1,5 @@
-###                                                             
+###                    
+<!-- PLIS DONT COPY DIRECTLY GUYSZ...HUEHUEHUE -->
 <h1 align="left"> < Hello Coders🚀, I'm Jayesh Bhojawat<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="3%">/></h2>
 <img width="48%" img src="https://yt3.ggpht.com/a/AATXAJyoBzY3MLfXHZ8EW4X3SpL8Tkmn1sBtn3FaxA=s900-c-k-c0xffffffff-no-rj-mo" align="right"/>
 
