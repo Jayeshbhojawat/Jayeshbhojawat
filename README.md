@@ -6,7 +6,7 @@
 - 🔭 I’m keen Cryptocurrency Enthusiast
 - 🌱 I’m currently learning Bootstrap,MVC & sorta Blockchain
 - 👯 I’m looking to collaborate on Open source and a lot on development side.
-- 💬 Ask me about HTML,CSS,JS,Python
+- 💬 Ask me about Blockchain 
 - 📫 How to reach me: **LinkedIn** [Jayesh Bhojawat ](https://www.linkedin.com/in/jayeshbhojawat/) 
 -  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>
 
