@@ -14,5 +14,5 @@
 - 📫 ping me here: [Jayesh Bhojawat](https://www.linkedin.com/in/jayeshbhojawat/)  
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api?username=Jayeshbhojawat&theme=radical&show_icons=true">
+<!--<img width="38%" src="https://github-readme-stats.vercel.app/api?username=Jayeshbhojawat&theme=radical&show_icons=true">-->
 <img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayeshbhojawat&theme=radical&show_icons=true" />
